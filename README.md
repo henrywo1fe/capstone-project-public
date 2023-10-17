@@ -27,7 +27,8 @@
 ...
 
 * `data` 
-    - contains link to copy of the dataset (stored in a publicly accessible Google Drive folder)
+    - Raw data can be found in the following google drive link: 
+    - https://drive.google.com/drive/folders/1hlfxnXDK8u55XbsPU6CQ1yeVuPu_6TVD?usp=drive_link
     - saved copy of aggregated / processed data as long as those are not too large (> 10 MB)
 
 * `model`
