@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-... 
+The project will investigate how various factors affect hospital admission from emergency department triage. It will attempt to build a model that will predict whether a patient will be admitted into hospital given certain information about them. 
 ...
 ...
 
@@ -42,6 +42,7 @@
 
 * `references`
     - contains papers / tutorials used in the project
+    - Original paper: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201016#sec022
 
 * `src`
     - Contains the project source code (refactored from the notebooks)
