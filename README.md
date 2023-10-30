@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-The project will investigate how various factors affect hospital admission from emergency department triage. It will attempt to build a model that will predict whether a patient will be admitted into hospital given certain information about them. 
+The project's aim is to build a model that can predict ESI scores for patients from data about them. 
 ...
 ...
 
