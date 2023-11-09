@@ -4,9 +4,11 @@
 
 ### Project Overview
 
-The project's aim is to build a model that can predict how urgently a patient needs medical care. The target variable will be a custom measure called 'medical_urgency', which is a function of 'esi'. We will train different models with an aim to improve accuracy score, and to learn the most inflential factors in predicting urgency of medical care. 
+The project's aim is to build a model that can predict how urgently a patient needs medical care. The target variable will be a custom measure called 'medical_urgency', which is a function of 'esi'. We will train different models with an aim to improve accuracy score, and to learn the most inflential factors in predicting urgency of medical care. The problem is a classification problem. 
 
 The intention is to provide information to hospitals and medical proffessionals that could help them make medical care more efficient in emergency departments, and also to provide a tool that can be used in emergency departments to predict how urgently a patient needs care based on a selection on factors, so that patients can more efficiently be helped. 
+
+After investgating this the project will investigate prediction of hospital addmission, which can be utilised in similar ways.
 
 ### Walkthrough Demo
 
